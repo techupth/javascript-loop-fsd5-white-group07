@@ -4,3 +4,9 @@ let total = 0;
 // Start coding here
 
 console.log(total);
+
+for (let i = 0; i < numbers.length; i++) {
+  total = total + numbers[i];
+}
+
+console.log(total);
